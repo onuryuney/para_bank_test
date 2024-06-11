@@ -1,4 +1,4 @@
-## Senaryo 3: Para Transferi
+## Senaryo 4: Para Transferi
 ### Adımlar:
 1. Giriş yapın.
 2. "Transfer Funds" menüsüne gidin.
